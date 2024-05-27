@@ -7,5 +7,3 @@ I major in computer vision and machine learning.
 My research is about action recognition in socccer game.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurodaKento0505)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurodaKento0505)](https://github.com/anuraghazra/github-readme-stats)
