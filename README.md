@@ -4,4 +4,4 @@
 
 [![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={KurodaKento0505}&theme={github})
 
-[![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={KurodaKento0505}&theme={github}&exclude={python,c#}
+[![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={KurodaKento0505}&theme={github}&exclude={python,c#})
