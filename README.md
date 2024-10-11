@@ -3,4 +3,4 @@ Portfolio : https://glitter-ricotta-a16.notion.site/Kento-Kuroda-1170899ffc5c80f
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KurodaKento0505)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,c,latex,git,github,docker,anaconda,unity,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,c,js,latex,git,github,docker,anaconda,unity,figma)](https://skillicons.dev)
